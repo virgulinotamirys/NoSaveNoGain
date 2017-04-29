@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">NoSaveNoGain</string>
+
+    <string name="tab_1">Meus Ganhos</string>
+    <string name="tab_2">Onde Reciclar</string>
+
+    <string name="menu_conta">Minha Conta</string>
+    <string name="menu_sobre">Sobre</string>
+    <string name="menu_sair">Sair</string>
+    <string name="msg_valida_campo">Preencha o campo</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
